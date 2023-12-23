@@ -458,6 +458,7 @@ int returnTheCombination(int a[],int size)
 
 int main()
 {
+	//check
 	Deck d;
 	int p; //no of players without the dealer
 	cout<<"please enter the number of players (without dealer) maximum is 9 : ";
